@@ -38,7 +38,7 @@ This project covers the basics of file handling in python
 1. BINARY FILE : READING/WRITING
 2. CSV FILE : READING/WRITING
 
-  ## thankyou
+  ### THANKYOU
 
 
 
