@@ -6,4 +6,6 @@ I made a restaurant UI using python+tkinter
 ![MAIN MENU](./images/menu.png)
 ## there are multiple options
 ![options](./images/starter.png)
-![options](./images/main menu indian.png)
+![options](./images/mainmenuindian.png)
+![options](./images/mainmenuinter.png)
+![options](./images/dessert.png)
