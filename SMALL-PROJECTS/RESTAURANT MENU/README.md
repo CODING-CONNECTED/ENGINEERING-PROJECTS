@@ -9,3 +9,9 @@ I made a restaurant UI using python+tkinter
 ![options](./images/mainmenuindian.png)
 ![options](./images/mainmenuinter.png)
 ![options](./images/dessert.png)
+the selection is button based , clicking ADD includes the item instantly to the order and calculates the total bill  
+removing the item is also done by clicking the "-" button next to the item's ADD button.  
+
+#SAVING ORDER
+![options](./images/save order.png)
+
