@@ -13,5 +13,8 @@ the selection is button based , clicking ADD includes the item instantly to the 
 removing the item is also done by clicking the "-" button next to the item's ADD button.  
 
 #SAVING ORDER
-![options](./images/save order.png)
+![options](./images/saveorder.png)
+the order is saved as a list to a binary file locally.  
+
+
 
